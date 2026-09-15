@@ -1,0 +1,21 @@
+# Compiled executables
+*.out
+steg
+steg_test
+a.out
+
+# Temporary extracted or encoded files
+stego.bmp
+output*
+extracted*
+roundtrip*
+
+# Local secret/test assets
+secret.txt
+*.bmp
+*.png
+*.jpg
+*.jpeg
+*.mp3
+*.mp4
+*.pdf
